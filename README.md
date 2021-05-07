@@ -2,6 +2,6 @@
 
 SetPed z menu do ustawiania pedów
 
-Kompatybilny z:
+``` Kompatybilny z: ```
 
 > ESX 1.2
