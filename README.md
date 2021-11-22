@@ -9,4 +9,4 @@ SetPed z menu do ustawiania pedów
 
 ``` Credits ```
 
-> Użytkownicy forum.cfx.re
+> [Blaizz](https://forum.cfx.re/u/blaizz/summary) z cfx forum
